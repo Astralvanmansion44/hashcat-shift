@@ -29,4 +29,4 @@ No extra dependencies — download and run.
 
 ## System Requirements
 - OS: Windows
-- An internet connection for the first run      
+- An internet connection for the first run       
